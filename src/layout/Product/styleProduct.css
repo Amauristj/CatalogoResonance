@@ -1,0 +1,45 @@
+.container1 {
+    display: flex;
+    align-content: center;
+    align-items: center;
+}
+
+.sidebar__main {
+    flex: 1;
+    overflow: auto;
+}
+.card-size{
+    width: 19rem !important;
+    margin-top: 13px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    display: inline-block;
+    overflow: hidden;
+    height: 374px;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px;  
+}
+.car_text{
+    font-size: 18px;
+    font-style: oblique;
+    font-family: fantasy;
+    margin: 0px;
+}
+.imagen-product{
+    height: 162px;
+    overflow: hidden;
+}
+.imagen-product img{
+    width: 100%;
+    height: 100%;
+    margin-top: 2px;
+}
+.card-body-perso{
+    padding-left: 18px;
+    padding-top: 5px;
+
+}
+.dails{
+    height: 104px;
+    overflow: hidden;
+}
